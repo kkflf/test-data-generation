@@ -1,5 +1,5 @@
-Name: Email
-Variable name: lord_of_the_ring.email
+Name: Lord of the Rings - Email
+Variable name: lord_of_the_ring_email
 Data examples:
 frodo.baggins@shire.com
 samwise.gamgee@shire.com

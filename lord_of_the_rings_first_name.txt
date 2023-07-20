@@ -1,5 +1,5 @@
-Name: First Name
-Variable name: lord_of_the_ring.first_name
+Name: Lord of the Rings - First Name
+Variable name: lord_of_the_ring_first_name
 Data examples:
 Frodo
 Samwise

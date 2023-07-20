@@ -1,5 +1,5 @@
-Name: Last Name
-Variable name: lord_of_the_ring.last_name
+Name: Lord of the Rings - Last Name
+Variable name: lord_of_the_ring_last_name
 Data examples:
 Baggins
 Gamgee
@@ -10,4 +10,4 @@ Greenleaf
 son of Glóin
 the Grey
 son of Denethor II
-Baggins
+Elrondson

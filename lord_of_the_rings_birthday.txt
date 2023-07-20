@@ -1,5 +1,5 @@
-Name: Birthday
-Variable name: lord_of_the_ring.birthday
+Name: Lord of the Rings - Birthday
+Variable name: lord_of_the_ring_birthday
 Data examples:
 1952-07-20
 1956-06-15
