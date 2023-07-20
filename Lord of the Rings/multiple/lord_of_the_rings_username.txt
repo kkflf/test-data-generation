@@ -1,3 +1,3 @@
 Name: Lord of the Rings - Username
 Expresion:
-"$lord_of_the_rings_username_adjective$lord_of_the_rings_username_noun$lord_of_the_ring_first_name"
+"$misc_adjective$misc_noun$lord_of_the_ring_first_name"

@@ -1,5 +1,5 @@
-Name: Lord of the Rings - Username Noun
-Variable name: lord_of_the_rings_username_noun
+Name: Misc - Noun
+Variable name: misc_noun
 Data examples:
 Banana
 Jester

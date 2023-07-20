@@ -1,5 +1,5 @@
-Name: Lord of the Rings - Username Adjective
-Variable name: lord_of_the_rings_username_adjective
+Name: Misc - Adjective
+Variable name: misc_adjective
 Data examples:
 Absurd
 Amusing
