@@ -1,0 +1,13 @@
+Name: Last Name
+Variable name: lord_of_the_ring.last_name
+Data examples:
+Baggins
+Gamgee
+Brandybuck
+Took
+II
+Greenleaf
+son of Glóin
+the Grey
+son of Denethor II
+Baggins

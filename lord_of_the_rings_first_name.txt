@@ -1,0 +1,13 @@
+Name: First Name
+Variable name: lord_of_the_ring.first_name
+Data examples:
+Frodo
+Samwise
+Meriadoc
+Peregrin
+Aragorn
+Legolas
+Gimli
+Gandalf
+Boromir
+Bilbo
