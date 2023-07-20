@@ -1,0 +1,37 @@
+Name: Lord of the Rings - Last Name
+Variable name: lord_of_the_ring_last_name
+Data examples:
+Baggins
+Gamgee
+Brandybuck
+Took
+Underhill
+Greenleaf
+son of Glóin
+the Grey
+son of Denethor II
+Elrondson
+Evenstar
+Whitehand
+Starkindler
+Shieldmaiden
+Captain of Gondor
+Son of Thengel
+Son of Thranduil
+King of Rohan
+Rider of Rohan
+Ent
+Lord of Lothlórien
+Steward of Gondor
+Wormtongue
+Marchwarden of Lothlórien
+King of Gondor
+High King of Arnor
+Marshal of the Westfold
+King of Dale
+Lord of Moria
+Dwarf of the Iron Hills
+Companion of Thorin
+Heir of Durin
+Elf of Mirkwood
+Elf of the House of Durin

@@ -1,0 +1,43 @@
+Name: Lord of the Rings - First Name
+Variable name: lord_of_the_ring_first_name
+Data examples:
+Frodo
+Samwise
+Meriadoc
+Peregrin
+Aragorn
+Legolas
+Gimli
+Gandalf
+Boromir
+Bilbo
+Elrond
+Galadriel
+Gollum
+Saruman
+Eowyn
+Faramir
+Eomer
+Theoden
+Treebeard
+Glorfindel
+Celeborn
+Denethor
+Grima
+Haldir
+Isildur
+Elendil
+Bard
+Balin
+Borin
+Dwalin
+Bifur
+Bofur
+Bombur
+Dori
+Nori
+Ori
+Oin
+Gloin
+Thrain
+Thorin
